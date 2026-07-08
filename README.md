@@ -44,19 +44,31 @@ This website was built to establish a premium online presence for ELNET Events &
 ## 📂 Project Structure
 elnet-events-travel/
 ├── index.html # Homepage
+
 ├── events.html # Events services
+
 ├── travel.html # Travel destinations
+
 ├── addis-tours.html # Addis Ababa tours
+
 ├── fleet.html # Car rental fleet
+
 ├── contact.html # Contact + inquiry form
+
 ├── css/
 │ └── style.css # All styles (responsive included)
+
 ├── js/
 │ └── app.js # JavaScript (navigation, form, lazy load)
+
 └── images/
+
 ├── home-hero.jpg
+
 ├── events-hero.png
+
 ├── travel-hero.jpg
+
 └── ... 
 
 ## 🚀 How to Run Locally
@@ -88,38 +100,7 @@ GitHub: Tsi777
 📝 License
 © 2026 ELNET Events & Travel. All rights reserved.
 
----
 
-## Step 4: Commit the File
-
-1. Scroll down to the bottom of the page
-2. In the **"Commit new file"** box, type: `Add README.md`
-3. Make sure **"Commit directly to the main branch"** is selected
-4. Click the green **"Commit new file"** button
-
----
-
-## Step 5: Verify It Worked
-
-1. Go back to your repository: https://github.com/Tsi777/elnet-events-travel
-2. You should now see `README.md` in the file list
-3. Click on it to see how it looks
-
----
-
-## Visual Guide: What You Should See
- 🔍 Tsi777 / elnet-events-travel │
-│ │
-│ ⬜ 📄 README.md ← NEW FILE │
-│ ⬜ 📄 index.html │
-│ ⬜ 📄 events.html │
-│ ⬜ 📄 travel.html │
-│ ⬜ 📄 addis-tours.html │
-│ ⬜ 📄 fleet.html │
-│ ⬜ 📄 contact.html │
-│ ⬜ 📁 css/ │
-│ ⬜ 📁 js/ │
-│ ⬜ 📁 images/ │
 
 
 
